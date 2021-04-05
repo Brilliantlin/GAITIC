@@ -1,5 +1,4 @@
-# ---
-比赛分享
+# Global Artificial Intelligence Technology Innovation Competition (Track One) share
 
 经过几周的奋斗，终于在不是那么靠前的位置捡漏了一个周星星。首先感谢前面所有周周星大佬分享的思路以及群里面大家的讨论，对我启发颇多。目前最好成绩是2个深度学习模型+1个预训练模型，三个单模都在0.911左右，下面简单的分享下我的做法：
 
